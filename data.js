@@ -97,21 +97,21 @@ var exItems = [
     imageUrl: 'https://i.ytimg.com/vi/VQUgteNkz8Q/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDsOm3BSCssRGkrqLhVzjb4D2DdXw',
     title: '【第２部】スマナサーラ長老のゼロから始める「ブッダの瞑想」～彼岸への旅　法話とQ&A（23 Sep 2021 ゴータミー精舎）',
     done: false,
-  },
-  {
-    id: 4,
-    movieUrl:'',
-    imageUrl: '',
-    title: '',
-    done: false,
-  },
-  {
-    id: 4,
-    movieUrl:'',
-    imageUrl: '',
-    title: '',
-    done: false,
   }
+  // {
+  //   id: 4,
+  //   movieUrl:'',
+  //   imageUrl: '',
+  //   title: '',
+  //   done: false,
+  // },
+  // {
+  //   id: 4,
+  //   movieUrl:'',
+  //   imageUrl: '',
+  //   title: '',
+  //   done: false,
+  // },
   // {
   //   id: 4,
   //   movieUrl:'',
