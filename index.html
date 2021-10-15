@@ -6,6 +6,11 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <style>
+    * {
+      margin: 0;
+      /* padding: 0; */
+    }
+
     body {
       font-family: sans-serif;
     }
@@ -16,9 +21,13 @@
 
     ol li {
       clear: left;
-      margin-bottom: 1rem;
-      background-color: rgba(238, 238, 238, 0.434);
-      padding: 5px;
+      margin-bottom: 5px;
+      /* padding: 0 0 10px; */
+      /* padding-bottom: 5px; */
+    }
+
+    ol li:nth-child(2n) {
+      background-color: rgba(238, 238, 238, 0.596);
     }
 
     .clearfix::after {
