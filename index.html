@@ -79,7 +79,9 @@
     <ol id="items">
       <li v-for="item in items" :class="item.category" :key="item.id"
         :data-id="item.id">
-        <img :src="item.imageUrl">
+        <a :href="item.movieUrl" :target="item.title"
+          v-bind:class="{'done' : item.done}" class="none"><img
+            :src="item.imageUrl"></a>
         <a :href="item.movieUrl" :target="item.title"
           v-bind:class="{'done' : item.done}">
           {{ item.title }}
