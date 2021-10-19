@@ -4,7 +4,7 @@ var exItems = [
     imageUrl: 'https://i.ytimg.com/vi/b6XNs4i10JU/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCPGYynv4MIs30ZXQZKifmzt25zAQ',
     movieUrl:'https://youtu.be/b6XNs4i10JU',
     title: '死に支度（しにじたく）のススメ？（22 Aug 2021 ゴータミー精舎）',
-    done: false,
+    done: true,
   }, 
   {
     id: 1,
