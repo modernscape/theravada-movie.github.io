@@ -3,7 +3,7 @@ var exItems = [
     imageUrl: 'https://i.ytimg.com/vi/b6XNs4i10JU/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCPGYynv4MIs30ZXQZKifmzt25zAQ',
     movieUrl:'https://youtu.be/b6XNs4i10JU',
     title: '死に支度（しにじたく）のススメ？（22 Aug 2021 ゴータミー精舎）',
-    done: false,
+    done: true,
   }, 
   {
     imageUrl: 'https://i.ytimg.com/vi/EY4VkgRgOpM/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBNgexXWczfRdzgjwqhfHiyT7PW5A',
@@ -15,7 +15,7 @@ var exItems = [
     imageUrl: 'https://i.ytimg.com/vi/QrxMgTTDuWA/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA-MRzONjlPzMhTjhR5GI5JRdL11g',
     movieUrl:'https://youtu.be/QrxMgTTDuWA?list=PLv-Wl8PVb-JBtqjEdjnElDBXO8DFknK0T',
     title: '”Depressed” 混乱した社会のなか、どう生きる？｜スマナサーラ長老の初期仏教テーマトーク（29 Aug 2021)ゴータミー精舎',
-    done: false,
+    done: true,
   },
   {
     id: 3,
