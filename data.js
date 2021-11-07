@@ -40,7 +40,7 @@ var exItems = [
     movieUrl:'https://youtu.be/emAawtroW1k?list=PLv-Wl8PVb-JBtqjEdjnElDBXO8DFknK0T',
     imageUrl: 'https://i.ytimg.com/vi/emAawtroW1k/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBv34ndX9cdY6HgDMOokJQ9egkzfg',
     title: '《ブッダのことば》煩悩滅尽への道筋――聖者のこころを育てる究極の自己制御　『一切煩悩経』（中部２）を読む③｜スマナサーラ長老のパーリ経典解説（04 Apr 2021 ゴータミー精舎）',
-    done: false,
+    done: true,
   },  
   {
     movieUrl:'https://youtu.be/yYjqe6sJaAg?list=PLv-Wl8PVb-JBtqjEdjnElDBXO8DFknK0T',
