@@ -88,7 +88,7 @@ var exItems = [
     movieUrl:'https://youtu.be/gjLFEnuXnyg',
     imageUrl: 'https://i.ytimg.com/vi/NWy9hcMh9sM/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAAYKpdeD9u4AXMD_xjspaFfa5Wdg',
     title: '嫉妬しないこと',
-    done: false,
+    done: true,
   }
   // {
   //   id: 4,
