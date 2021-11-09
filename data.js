@@ -46,7 +46,7 @@ var exItems = [
     movieUrl:'https://youtu.be/yYjqe6sJaAg?list=PLv-Wl8PVb-JBtqjEdjnElDBXO8DFknK0T',
     imageUrl: 'https://i.ytimg.com/vi/yYjqe6sJaAg/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLABjqTDENhrkMf6lJzo_-gWD1hB0Q',
     title: '四聖諦の発見――「日日是好日」の人が知る真理の世界　誓教寺オンライン仏道実践会④｜スマナサーラ長老の初期仏教法話（20 Mar 2021 ゴータミー精舎からライブ配信）',
-    done: false,
+    done: true,
   },  
   {
     movieUrl:'https://youtu.be/sZPJu6fKfOA?list=PLv-Wl8PVb-JBtqjEdjnElDBXO8DFknK0T',
