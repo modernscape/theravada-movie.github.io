@@ -58,7 +58,7 @@ var exItems = [
     movieUrl:'https://youtu.be/1b4a0zQNShA',
     imageUrl: 'https://i.ytimg.com/vi/1b4a0zQNShA/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCg9rVhSjYvqkVvvTJzpDuTkM7rOg',
     title: '仏教を信じるためには、あなた自身の自由と知恵が不可欠です。｜スマナサーラ長老の初期仏教法話より【字幕付き】',
-    done: false,
+    done: true,
   },  
   {
     movieUrl:'https://youtu.be/8wjIZG5w2Dc?list=PLv-Wl8PVb-JBtqjEdjnElDBXO8DFknK0T',
